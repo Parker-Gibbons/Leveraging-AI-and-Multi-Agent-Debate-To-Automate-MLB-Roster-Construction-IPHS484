@@ -1,4 +1,6 @@
 # Leveraging-AI-and-Multi-Agent-Debate-To-Automate-MLB-Roster-Construction-IPHS484
 
+This repository contains the data and code used for the project "Leveraging AI Agents and Multi-Agent Debate To Automate MLB Front Office Decisions and Roster Construction"
+
 Abstract:
 This project leverages artificial intelligence Agents and Multi-Agent Debate (MAD) to evaluate Major League Baseball players and construct a twenty-six player MLB roster. The AI Agents evaluate each player based on statistics and grades them according to a five-tool scale, eventually resulting in a single numerical rating. MAD is then employed alongside optimization techniques to select thirteen hitters and thirteen pitchers, maximizing team performance according to agent consensus, while staying within a specified salary cap. The operating hypothesis is that AI agents can effectively evaluate Major League Baseball players based on performance statistics, even with large and complex datasets. By applying Multi-Agent Debate (MAD) and optimization techniques, a competitive team can be constructed that maximizes overall performance while adhering to a specified salary cap, mirroring real-world decision-making processes in sports management.
